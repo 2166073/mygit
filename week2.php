@@ -39,8 +39,7 @@
   <input type="text" id="Uname" name="Uname"><br><br>
   <label for="pass">Password</label>
   <input type="text" id="pass" name="pass"><br><br>
-  <button type="submit">Submit</button>
-  <button type="submit" formmethod="post">Submit using POST</button>
+  <button type="button" onclick="alert('Saved')">Submit</button>
 </form>
 
 
